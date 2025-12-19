@@ -52,6 +52,20 @@ Based on the data analysis, I recommend the following actions for Zentro:
 - Given that the United Kingdom contributes a significantly higher share of total sales, marketing efforts should be increased to strengthen and maintain market dominance in the country.
 - Additionally, strategies driving sales success in the UK should be adapted and applied across other operating countries to ensure more balanced sales performance globally.
 
+ ## Link
+[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjIxNGYwNjQtYmU3Yy00MTYzLWJjYjktNDY2YjQwNzRlYjRjIiwidCI6IjI2ZGJlMWMyLTVhZDItNDRjZi1hNzMyLTJkZmM3YzQ3YWUxYiJ9)
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
